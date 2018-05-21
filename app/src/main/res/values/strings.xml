@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Diploma</string>
+    <string name="firstName">Enter the first name</string>
+    <string name="lastName">Enter the last name</string>
+    <string name="middleName">Enter the middle name</string>
+    <string name="password">Create a password</string>
+</resources>
